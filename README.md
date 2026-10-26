@@ -41,6 +41,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[LLMO Metrics](https://llmometrics.com)** – Scores visibility, then uses AI to prioritise the tweaks most likely to boost mentions in ChatGPT, Gemini & Copilot.
 - **[LLMrefs](https://llmrefs.com)** – Generative AI search analytics tracker for brand visibility, rank, and citations across major answer engines.
 - **[Lorelight](https://lorelight.ai/)** – AI visibility analytics and monitoring.
+- **[MessGEO](https://messgeo.com/)** - Daily prompt tracking across ChatGPT, Gemini, Copilot, Perplexity, Google AI Overviews and AI Mode, with share of voice, competitor comparison and alerts; interface in English, Portuguese and Turkish. Prompt Tracking from €49 / mo, 25 free credits on sign-up.
 - **[ModelMonitor](https://modelmonitor.ai/brands/activity-monitor)** – Monitors mentions across 50+ models (OpenAI, Anthropic, Grok, etc.); API + webhooks for reputation teams.
 - **[Nuggt](https://beta.nuggt.io/)** – SEO agency platform focused on generative search performance.
 - **[Otterly.AI](https://otterly.ai)** – Real-time dashboard for Google AI Overviews, ChatGPT & Perplexity; tracks citations, sentiment and prompt-level share of voice. Starts at $29 / mo after a 7-day trial.
